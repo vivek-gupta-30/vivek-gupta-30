@@ -40,6 +40,7 @@ Here are the technologies and tools I work with daily:
 
 ---
 
+<!---
 ## 🏆 GitHub Achievements  
 [![trophy](https://github-profile-trophy.vercel.app/?username=vivek-justthink&theme=flat&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -54,6 +55,7 @@ Here are the technologies and tools I work with daily:
 ![GitHub Streak](https://streak-stats.demolab.com?user=vivek-justthink&theme=default)
 
 ---
+--->
 
 <!---
 vivek-justthink/vivek-justthink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
